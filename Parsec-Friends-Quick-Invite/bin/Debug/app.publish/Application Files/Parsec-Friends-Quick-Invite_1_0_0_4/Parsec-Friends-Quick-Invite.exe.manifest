@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Parsec-Friends-Quick-Invite.exe" version="1.0.0.4" publicKeyToken="7566498f13afb655" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Parsec-Friends-Quick-Invite" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Parsec-Friends-Quick-Invite.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Parsec-Friends-Quick-Invite.exe" size="13744">
+      <assemblyIdentity name="Parsec-Friends-Quick-Invite" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>P0F14whvaWr0kTZYyjU27dviH/zxw2I3uJ8QQXAKA7s=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Parsec-Friends-Quick-Invite.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=KOZOVA1\mug66" issuerKeyHash="616ddce837114cd09403fa2ba2e2eb3cf2782a39" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Y8oj3uvvNhZ09VNcN8MQPCVB2IxPmPey5PTu9YeTQUQ=</DigestValue></Reference></SignedInfo><SignatureValue>etKkIhbR9emCDvXu+o5etPoOOw8LUq+s/j4J62VT77KvF3m9a97Oao9OYNgA8FDT3m68M1uNakQ9vdXhkf+AJpvfxHNltrdIO5EL80OPsBrlVqElN7tx0ROY1x+RPYxTM0AWCefH2IBE5MHaUzVWILY4ODqM06OUGRdh28CgFC0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>pcji6F7islRxhTdTLco9o4+GPI8df3ISxqlmj9nhY0EFXjcre68uBnmOnsu7RWdgUz8NKrdZrJf7rS6wbA1/QLtxw3HJzMeYnKL/wPVxX2rOLNtscc6ryVSUhSlsbgUDAbwW31pO4nrZ5yTEqcl9X720s1PtFCSBzNhffCb8BaE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="44419387f5eef4e4b2f7984f8cd841253c10c3375c53f5741636efebde23ca63" Description="" Url=""><as:assemblyIdentity name="Parsec-Friends-Quick-Invite.exe" version="1.0.0.4" publicKeyToken="7566498f13afb655" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=KOZOVA1\mug66</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>jj4fAcQWKgScKITy4K/y1f3MnfwXflA2KJGFtVCDLP8=</DigestValue></Reference></SignedInfo><SignatureValue>e5VraBS6aadSy6OYytyIkAhqZy4y/xoooV07q8dhlXMD8vYDCmA0AkATL/r1ZwexzSbYAE3LWuaT1mG9Dcv9dl+0gsGG+T9nFuGy9Z1XZygvHy9Hrn3a0mScvFBmUAWOyQmDSBDQAQ7gNSidwH6BuFD5ZE5x9NGA65FoPKdV6sw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pcji6F7islRxhTdTLco9o4+GPI8df3ISxqlmj9nhY0EFXjcre68uBnmOnsu7RWdgUz8NKrdZrJf7rS6wbA1/QLtxw3HJzMeYnKL/wPVxX2rOLNtscc6ryVSUhSlsbgUDAbwW31pO4nrZ5yTEqcl9X720s1PtFCSBzNhffCb8BaE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQPaG1EsL7eZ5K33yAgUh3VjANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoASwBPAFoATwBWAEEAMQBcAG0AdQBnADYANjAeFw0xNzExMTMxNjIzNDRaFw0xODExMTMyMjIzNDRaMCUxIzAhBgNVBAMeGgBLAE8AWgBPAFYAQQAxAFwAbQB1AGcANgA2MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQClyOLoXuKyVHGFN1Mtyj2jj4Y8jx1/chLGqWaP2eFjQQVeNyt7ry4GeY6ey7tFZ2BTPw0qt1msl/utLrBsDX9Au3HDccnMx5icov/A9XFfas4s22xxzqvJVJSFKWxuBQMBvBbfWk7ietnnJMSpyX1fvbSzU+0UJIHM2F98JvwFoQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAFJ4FCf5jyzJ+MKkimzjzOIGYuFL3YgTIN8taYe9eQb6Sx4wlz+iZ7XKBOuhIuNAWfTVhY6yea24Psf172cnoVD/wtyGUK8W/TrrwP2Xnuw4FHfaQNVqaNvdruIkDySWLl3PU3F67FWHeFOyY+QLivPBN1BO3Akj4WMkQZb7JUIy</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

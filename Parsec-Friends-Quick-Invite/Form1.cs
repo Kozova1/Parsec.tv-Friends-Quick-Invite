@@ -44,7 +44,7 @@ namespace Parsec_Friends_Quick_Invite
                     file.WriteLine(line);
                 }
             }
-            MessageBox.Show("Share the Installer.bat file located on your desktop with whoever you want to invite");
+            MessageBox.Show("Share the Installer.bat file located in the directory from which you ran this program with whoever you want to invite");
         }
 
         void makeFriendFile(ref string args) {
@@ -60,7 +60,7 @@ namespace Parsec_Friends_Quick_Invite
                     file.WriteLine(line);
                 }
             }
-            MessageBox.Show("Share the Installer.bat file located on your desktop with whoever you want to invite");
+            MessageBox.Show("Share the Installer.bat file located in the directory from which you ran this program with whoever you want to invite");
         }
 
 

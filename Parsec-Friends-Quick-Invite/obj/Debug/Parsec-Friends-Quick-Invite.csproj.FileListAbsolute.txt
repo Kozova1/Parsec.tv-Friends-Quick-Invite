@@ -1,0 +1,14 @@
+D:\Users\mug66\source\repos\Parsec-Friends-Quick-Invite\Parsec-Friends-Quick-Invite\bin\Debug\Parsec-Friends-Quick-Invite.exe.config
+D:\Users\mug66\source\repos\Parsec-Friends-Quick-Invite\Parsec-Friends-Quick-Invite\bin\Debug\Parsec-Friends-Quick-Invite.exe
+D:\Users\mug66\source\repos\Parsec-Friends-Quick-Invite\Parsec-Friends-Quick-Invite\bin\Debug\Parsec-Friends-Quick-Invite.pdb
+D:\Users\mug66\source\repos\Parsec-Friends-Quick-Invite\Parsec-Friends-Quick-Invite\obj\Debug\Parsec-Friends-Quick-Invite.csprojResolveAssemblyReference.cache
+D:\Users\mug66\source\repos\Parsec-Friends-Quick-Invite\Parsec-Friends-Quick-Invite\obj\Debug\Parsec_Friends_Quick_Invite.Form1.resources
+D:\Users\mug66\source\repos\Parsec-Friends-Quick-Invite\Parsec-Friends-Quick-Invite\obj\Debug\Parsec_Friends_Quick_Invite.Properties.Resources.resources
+D:\Users\mug66\source\repos\Parsec-Friends-Quick-Invite\Parsec-Friends-Quick-Invite\obj\Debug\Parsec-Friends-Quick-Invite.csproj.GenerateResource.Cache
+D:\Users\mug66\source\repos\Parsec-Friends-Quick-Invite\Parsec-Friends-Quick-Invite\obj\Debug\Parsec-Friends-Quick-Invite.csproj.CoreCompileInputs.cache
+D:\Users\mug66\source\repos\Parsec-Friends-Quick-Invite\Parsec-Friends-Quick-Invite\obj\Debug\Parsec-Friends-Quick-Invite.exe
+D:\Users\mug66\source\repos\Parsec-Friends-Quick-Invite\Parsec-Friends-Quick-Invite\obj\Debug\Parsec-Friends-Quick-Invite.pdb
+D:\Users\mug66\source\repos\Parsec-Friends-Quick-Invite\Parsec-Friends-Quick-Invite\bin\Debug\Parsec-Friends-Quick-Invite.exe.manifest
+D:\Users\mug66\source\repos\Parsec-Friends-Quick-Invite\Parsec-Friends-Quick-Invite\bin\Debug\Parsec-Friends-Quick-Invite.application
+D:\Users\mug66\source\repos\Parsec-Friends-Quick-Invite\Parsec-Friends-Quick-Invite\obj\Debug\Parsec-Friends-Quick-Invite.exe.manifest
+D:\Users\mug66\source\repos\Parsec-Friends-Quick-Invite\Parsec-Friends-Quick-Invite\obj\Debug\Parsec-Friends-Quick-Invite.application
